@@ -1,23 +1,16 @@
-Since founding FabRiders we have helped a number of organisations plan and implement tech projects that range from improving websites, implementing data projects to creating graphics and visualisations.
+Since founding FabRiders we have helped a number of advocacy and rights organisations plan and implement tech projects that range from improving websites, implementing data projects to creating graphics and visualisations. Most individuals that are involved in creating social change have very different processes to get things done than those that are focused on creating technologies (though these two communities are merging more than ever these days).  The purpose of this article is to help people working in advocacy understand what they need to know before undertaking a technology project and how to communicate that to a potential developer/consultant.  
 
-Here's what we learned:
+**Preparation**
 
-To Prepare:
+Have a vision of success for the project. Understand how the project contributes to the overall change you are seeking to create. How does this support your Theory of Change? Where does it fit within the organisational strategy?
 
-Have a vision of success for the project. You need to understand how the project contributes to the overall change you are seeking. How does this support your Theory of Change? Where does it fit within the organisational strategy?
+Understand how this will engage your audience. What value will your user actually find when using the output of your project? You will likely need to spend the greatest amount of time and effort in this area. [See this post on creating user profiles and user stories.](https://github.com/Fabrider/fabrider.github.io/blob/master/BlogPosts/LearningAboutUsers.md)
 
-Understand how this will engage your audience. What value will your user actually find when using the output of your project? You will likely need to spend the greatest amount of time and effort in this area. Identify the types of users you will have and then actually identify real people that exemplify those types. Create user profiles that provide biographical details along with user stories that will describe the activities users will be doing with your outputs.
+Identify who in your own organisation that should oversee the project. You may need to assign a team, depending on how it will be integrated into your work, but make sure you have one person who is assigned responsibility to make sure everything will run ontime and within budget (never assign this responsibility to an external consultant). 
 
-But don't rely on your own awareness of your users. Remember that you are building a 'user experience' and we stress understanding your user inside and out, be aware of the experience you will provide them. Interview and survey your users to find out why they would want to use your project. Specifically you will want to learn:
+Creating a specification document
 
-What their organisation is trying to accomplish and what their role is in supporting that. How does your project support what they are working on. When would they use your project? get specifics, what will they do with the information they are getting from your project? Who will they show it to? What are they hoping to accomplish? What sort of technology do they have access to? What device would they use for access? What browser do they use? What will the speed of their internet connection be? Will they be wanting to download your information? In what formats?
-
-In particular, know when they will come to your site and what they will want to do with the information they are accessing. Have you made it as easy as possible for them to do this?
-
-Identify an internal project manager that will be responsible for the overall process. you will need to maintain ownership of the project internally. Never outsource responsibility.
-Finding external expertise:
-
-As part of a formal process to identify a developer or consultant 'request for proposal' or RFP that contains your brief/specification requirements. This should illuminate your expectations as much as possible. It will need to include:
+A specification document will act as the anchor for your tech project.  It will be critical to produce so that you can clearly articulate your needs to a developer or consultant so that they can give you an estimate.  You should include it as part of a formal process to identify a developer or consultant 'request for proposal' This should illuminate your expectations as much as possible. It will need to include:
 
 What your organisation does and what it is trying to achieve
 
