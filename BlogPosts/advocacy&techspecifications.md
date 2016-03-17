@@ -12,7 +12,9 @@ Understand how this will engage your audience. What value will your user actuall
 
 Identify who in your own organisation should oversee the project. You may need to assign a team, depending on how it will be integrated into your work, but make sure you have one person who is assigned responsibility to make sure everything will run ontime and within budget  
 
-##  Creating a specification document
+
+
+##  Creating the specification document
 
 A specification document will act as the anchor for your tech project.  It will be critical for clearly articulating your needs to a developer or consultant so that they can give you an estimate of time and budget.  You should include it as part of a formal process to identify a developer or consultant in a  'request for proposal' call. This should illuminate your expectations as much as possible. It will need to include:
 
@@ -51,8 +53,11 @@ A specification document will act as the anchor for your tech project.  It will 
 
 - Profile of preffered design/development firm. Should they be proficient in a particular programming language (one that fits into your current set up?). Stress that you will only work with people that are attentive to detail
 
+## Once you have identified a consultant or developer
+They will likely want to create a functional/requirement analysis, the process will likely include conducting a needs analysis. (This needs better explaination) 
+
 ## Other resources
-[Hacking User Centred Design for Social Change](http://www.fabriders.net/hacking-user-centred-design/)
-[Fundamentals for using technology](http://tech.transparency-initiative.org/fundamentals/why-you-should-use-fundamentals/)
-[Aspiration's RFP guide](https://aspirationtech.org/training/workflow/templates/rfp)
+- [Hacking User Centred Design for Social Change](http://www.fabriders.net/hacking-user-centred-design/)
+- [Fundamentals for using technology](http://tech.transparency-initiative.org/fundamentals/why-you-should-use-fundamentals/)
+- [Aspiration's RFP guide](https://aspirationtech.org/training/workflow/templates/rfp)
 
