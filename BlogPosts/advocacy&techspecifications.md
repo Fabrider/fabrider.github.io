@@ -1,4 +1,9 @@
-FabRiders has helped dozens of advocacy and rights organisations plan and implement tech projects that range from improving websites, implementing data projects, to creating graphics and visualisations. Most individuals that are involved in creating social change have very different processes than those that are focused on creating technologies (though these two communities are merging more than ever these days).
+FabRiders has helped dozens of advocacy and rights organisations plan and implement tech projects that range from improving websites, implementing data projects, to creating graphics and visualisations. Most individuals that are involved in creating social change have very different processes than those that are focused on creating technologies (though these two communities are merging more than ever these days). This can also mean that social change organisations have a clear idea of _what_ they would like to create using tech, but are fuzzy on _how_ to get there:
+
+- What information does a developer need from me in order to get their job done?
+- What can I expect from a tech service provider? What shouldn't I expect?
+- How can I make sure that my vision for the final product is the same as the service provider's vision?
+
 
 The purpose of this article is to help people working in advocacy understand what they need to know before undertaking a technology project and how to communicate that to a potential developer/consultant.
 
@@ -35,7 +40,7 @@ A specification document will act as the anchor for your tech project.  It will 
 - Technology requirements: 
 -- Browser and device support (though this has become more diriguer of late, it's still important to articulate, particularly if you have identified key browsers and devices in your user research). 
 -- Formats - do you need to provide PDF's for people that will want to print out information? Will you need a data visualisation? Will you need to provide a spreadsheet for those that will want to interact with the data on their own? 
--- Coexistance - will this be fitting into your organisaitonal digital ecosystem? How? What are the requirements based on that. 
+-- Coexistence - will this be fitting into your organisaitonal digital ecosystem? How? What are the requirements based on that. 
 -- Security requirements are you collecting data? How will you protect it? How will you protect the people that will access your website and assure their activity can't be tracked? 
 -- Accessibility requirements 
 -- Low Bandwidth requirements Required/preferred programming/stacks/crms (e.g, Wordpress, Drupal, Python, Rails, PHP, etc) 
@@ -60,4 +65,3 @@ They will likely want to create a functional/requirement analysis, the process w
 - [Hacking User Centred Design for Social Change](http://www.fabriders.net/hacking-user-centred-design/)
 - [Fundamentals for using technology](http://tech.transparency-initiative.org/fundamentals/why-you-should-use-fundamentals/)
 - [Aspiration's RFP guide](https://aspirationtech.org/training/workflow/templates/rfp)
-
