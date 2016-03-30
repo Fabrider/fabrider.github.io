@@ -1,4 +1,4 @@
-***Checklist for a Tech Specification***
+# Checklist for a Tech Specification
 
 The purpose of this article is to help people working on social change efforts to understand what they need to know before undertaking a technology project and how to communicate that to internal technology related staff or a potential external developer/consultant hire. This document was created with the input of several colleagues and was also greatly informed by [Aspiration’s Request for Proposal (RFP) Template](https://aspirationtech.org/training/workflow/templates/rfp).
 
