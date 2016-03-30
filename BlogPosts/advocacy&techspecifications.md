@@ -1,4 +1,4 @@
-Checklist for a Tech Specification that will support social change efforts
+***Checklist for a Tech Specification***
 
 The purpose of this article is to help people working on social change efforts to understand what they need to know before undertaking a technology project and how to communicate that to internal technology related staff or a potential external developer/consultant hire. This document was created with the input of several colleagues and was also greatly informed by [Aspiration’s Request for Proposal (RFP) Template](https://aspirationtech.org/training/workflow/templates/rfp).
 
@@ -19,21 +19,14 @@ Identify who in your own organisation should oversee the project. You may need t
 ##  Creating the specification document
 
 A specification document will act as the anchor for your tech project.  It will be critical for clearly articulating your needs to a developer or consultant so that they can give you an estimate of time and budget.  You should include it as part of a formal process to identify a developer or consultant in a  'request for proposal' call. This should illuminate your expectations as much as possible. It will need to include:
-
 - What your organisation does and what it is trying to achieve
-
 - How this project fits into the overall vision of success for the organisation
-
 - Your goals and objectives for this project. What is the impact you are expecting this project to have? How will it engage stakeholders?
-
 - Information about your users
   - User profiles. Demographics, their contexts and what value they will get out of the project outputs
   - User stories. What they are doing when they engage with your project.
-
 - Navigation and Information Archeticture. How will people get to the information they are looking for? You might include wireframes that show how the navigation and interface might look. (see this link for how to create wire frames).
-
 - Look and feel. What sort of response do you want people to have when they see it? Should it's look be dictated by organisational or project branding?  
-
 - Technology requirements. 
   - Browser and device support (though this has become more diriguer of late, it's still important to articulate, particularly if you have identified key browsers and devices in your user research). 
   - Formats. Do you need to provide PDF's for people that will want to print out information? Will you need a data visualisation? Will you need to provide a spreadsheet for those that will want to interact with the data on their own? 
@@ -43,17 +36,11 @@ A specification document will act as the anchor for your tech project.  It will 
   - Bandwidth requirements. Will users be accessing your in low-bandwidth requirements? 
   - Required/preferred programming/stacks/cms. (e.g, Wordpress, Drupal, Python, Rails, PHP, etc) 
   - Hosting Requirements.
-
 - License requirements. We can not stress how critical it is to use free and open source licensing, along with Creative Commons for your content. Be assured that your investment can be of benefit to others and that your data will not be locked into a platform. Make sure any potential consultant has the same values and priorities.
-
 - Long term maintenance and development. How wil it be maintained and further developed after launch?
-
 - Timeline. What are other project milestones that are reliant on the finalisation of the project? What are other deadlines that will be impacted by delays in this project? 
-- 
 - User testing. What user testing will need to occur before launch? Who should be involved in the testing?
-
 - A budget. How much money will you actually need?
-
 - Profile of preffered design/development firm. Should they be proficient in a particular programming language (one that fits into your current set up?). 
 
 ## Next Steps
