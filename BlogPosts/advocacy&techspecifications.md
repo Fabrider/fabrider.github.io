@@ -48,9 +48,11 @@ A specification document will act as the anchor for your tech project.  It will 
 
 - Long term maintenance and development. How wil it be maintained and further developed after launch?
 
-- Timeline. What are other project milestones that are reliant on the finalisation of the project? What are other deadlines that will be impacted by delays in this project? What user testing will need to occur before launch? Who should be involved in the testing? What questions will you ask testers to
+- Timeline. What are other project milestones that are reliant on the finalisation of the project? What are other deadlines that will be impacted by delays in this project? 
+- 
+- User testing. What user testing will need to occur before launch? Who should be involved in the testing?
 
-- A budget.  
+- A budget. How much money will you actually need?
 
 - Profile of preffered design/development firm. Should they be proficient in a particular programming language (one that fits into your current set up?). 
 
