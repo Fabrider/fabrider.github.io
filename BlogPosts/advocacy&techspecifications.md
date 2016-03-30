@@ -27,39 +27,37 @@ A specification document will act as the anchor for your tech project.  It will 
 - Your goals and objectives for this project. What is the impact you are expecting this project to have? How will it engage stakeholders?
 
 - Information about your users
--- User profiles - Demographics, their contexts and what value they will get out of the project outputs
--- User stories - what they are doing when they engage with the solution.
+  - User profiles. Demographics, their contexts and what value they will get out of the project outputs
+  - User stories. What they are doing when they engage with your project.
 
-- Navigation and Information Archeticture - this might include wireframes that show how the navigation and interface might look. (see this link for how to create wire frames).
+- Navigation and Information Archeticture. How will people get to the information they are looking for? You might include wireframes that show how the navigation and interface might look. (see this link for how to create wire frames).
 
-- Look and feel - what sort of response do you want people to have when they see it? Should it's look be dictated by organisational or project branding?  
+- Look and feel. What sort of response do you want people to have when they see it? Should it's look be dictated by organisational or project branding?  
 
-- Technology requirements: 
--- Browser and device support (though this has become more diriguer of late, it's still important to articulate, particularly if you have identified key browsers and devices in your user research). 
--- Formats - do you need to provide PDF's for people that will want to print out information? Will you need a data visualisation? Will you need to provide a spreadsheet for those that will want to interact with the data on their own? 
--- Coexistence - will this be fitting into your organisaitonal digital ecosystem? How? What are the requirements based on that. 
--- Security requirements are you collecting data? How will you protect it? How will you protect the people that will access your website and assure their activity can't be tracked? 
--- Accessibility requirements 
--- Low Bandwidth requirements 
--- Required/preferred programming/stacks/crms (e.g, Wordpress, Drupal, Python, Rails, PHP, etc) 
--- Hosting Requirements
+- Technology requirements. 
+  - Browser and device support (though this has become more diriguer of late, it's still important to articulate, particularly if you have identified key browsers and devices in your user research). 
+  - Formats. Do you need to provide PDF's for people that will want to print out information? Will you need a data visualisation? Will you need to provide a spreadsheet for those that will want to interact with the data on their own? 
+  - Coexistence. Will this be fitting into your organisaitonal digital ecosystem? How? What are the requirements based on that. 
+  - Security requirements. Are you collecting data? How will you protect it? How will you protect the people that will access your website and assure their activity can't be tracked? 
+  - Accessibility requirements 
+  - Bandwidth requirements. Will users be accessing your in low-bandwidth requirements? 
+  - Required/preferred programming/stacks/cms. (e.g, Wordpress, Drupal, Python, Rails, PHP, etc) 
+  - Hosting Requirements.
 
-- License requirements. We can not stress how critical it is to use free and open source licensing, along with Creative Commons for your content. Make sure your potential consultant has the same values and priorities.
+- License requirements. We can not stress how critical it is to use free and open source licensing, along with Creative Commons for your content. Be assured that your investment can be of benefit to others and that your data will not be locked into a platform. Make sure any potential consultant has the same values and priorities.
 
 - Long term maintenance and development. How wil it be maintained and further developed after launch?
 
 - Timeline. What are other project milestones that are reliant on the finalisation of the project? What are other deadlines that will be impacted by delays in this project? What user testing will need to occur before launch? Who should be involved in the testing? What questions will you ask testers to
 
-- Non functional requirements
-
-- Your Budget
+- A budget.  
 
 - Profile of preffered design/development firm. Should they be proficient in a particular programming language (one that fits into your current set up?). 
 
-## Once you have identified a consultant or developer
-They will likely want to create a functional/requirement analysis, the process will likely include conducting a needs analysis. (This needs better explaination) 
+## Next Steps
+If you are working with internal technology staff, write this all up and present it to them and find out what else they need to know to get moving.  You should have a good read of [Fundamentals for Using Technology: Technology Project Planning and Management](http://tech.transparency-initiative.org/fundamentals/why-you-should-use-fundamentals/).
+
+If you are going to hire external expertise, you should develop a request for proposal for distribution through various networks and channels to identify potential consultant or developer. See [Aspiration's RFP guide](https://aspirationtech.org/training/workflow/templates/rfp) 
 
 ## Other resources
 - [Hacking User Centred Design for Social Change](http://www.fabriders.net/hacking-user-centred-design/)
-- [Fundamentals for Using Technology: Technology Project Planning and Management](http://tech.transparency-initiative.org/fundamentals/why-you-should-use-fundamentals/)
-- [Aspiration's RFP guide](https://aspirationtech.org/training/workflow/templates/rfp)
