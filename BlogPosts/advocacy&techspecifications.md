@@ -10,11 +10,15 @@ FabRiders has helped dozens of advocacy and rights organisations plan and implem
 
 ## Preparation
 
-Develop a vision of success for the project. Understand how the project contributes to the overall change you are seeking to create. How does this support your Theory of Change? Where does it fit within the organisational strategy?
+Develop a vision of success for the project. Understand how the project contributes to the overall change you are seeking to create. How does this support your Theory of Change? Where does it fit within the organisational strategy? If you haven't done any of this work, this chapter on [The Tech Strategy](http://tech.transparency-initiative.org/fundamentals/the-tech-strategy/) in the guide we authored [Fundamentals for Using Technology](http://tech.transparency-initiative.org/fundamentals/why-you-should-use-fundamentals/)
 
-Understand how this will engage your audience. What value will your user actually find when using the output of your project? You will likely need to spend the greatest amount of time and effort in this area. [See this post on creating user profiles and user stories.](http://www.fabriders.net/hacking-user-centred-design/)
+Identify who in your own organisation should oversee the project. You may need to assign a team, depending on how it will be integrated into your work, but make sure you have one person who is assigned responsibility to make sure everything will run ontime and within budget.  
 
-Identify who in your own organisation should oversee the project. You may need to assign a team, depending on how it will be integrated into your work, but make sure you have one person who is assigned responsibility to make sure everything will run ontime and within budget  
+Before you do any work on the tech project, you should get potential users involved right away. You should understand how this will engage your audience. What value will your user actually find when using the output of your project? You will likely need to spend the greatest amount of time and effort in this area. [See this post on creating user profiles and user stories.](http://www.fabriders.net/hacking-user-centred-design/)
+
+
+
+
 
 ##  Creating the specification document
 
