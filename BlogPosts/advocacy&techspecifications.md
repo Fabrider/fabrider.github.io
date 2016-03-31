@@ -16,9 +16,12 @@ Identify who in your own organisation should oversee the project. You may need t
 
 Before you do any work on the tech project, you should get potential users involved right away. You should understand how this will engage your audience. What value will your user actually find when using the output of your project? You will likely need to spend the greatest amount of time and effort in this area. [See this post on creating user profiles and user stories.](http://www.fabriders.net/hacking-user-centred-design/)
 
+It's also worth mentioning at this point, learn from the efforts of others who have applied technology to social change efforts, and along with [Fundamentals for Using Technology](http://tech.transparency-initiative.org/fundamentals/why-you-should-use-fundamentals/) it's also worth having a good read of the following: 
+- [Principles for Digital Development](http://digitalprinciples.org): Nine principles that will save you time, money and assure you are not undermining your own social change effort
+- Jon Camfield's [Stop doing Technology for Good So Badly](https://www.joncamfield.com/blog/2013/04/stop_doing_technology_for_good)
+- [10 Tips for Successful ICT4D Interventions](https://bestict4d.wordpress.com/2013/06/02/10-tips-for-successful-ict4d-interventions-an-interview-with-ict4d-pioneer-ken-banks/)
 
-
-
+***And a disclaimer:*** we are not suggesting that you should build from scratch. There are plenty of solutions already built that you should consider before you even think about building your own. The specification is meant as a guide for selecting and possibly modifying an existing tool. 
 
 ##  Creating the specification document
 
@@ -52,5 +55,3 @@ If you are working with internal technology staff, write this all up and present
 
 If you are going to hire external expertise, you should develop a request for proposal for distribution through various networks and channels to identify potential consultant or developer. See [Aspiration's RFP guide](https://aspirationtech.org/training/workflow/templates/rfp) 
 
-## Other resources
-- [Hacking User Centred Design for Social Change](http://www.fabriders.net/hacking-user-centred-design/)
